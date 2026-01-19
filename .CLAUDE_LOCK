@@ -1,0 +1,25 @@
+# .CLAUDE_LOCK - Multi-Agent File Coordination
+#
+# This file coordinates work between multiple Claude sessions.
+#
+# ============================================================================
+# ACTIVE SESSIONS
+# ============================================================================
+
+# ============================================================================
+# COMPLETED SESSIONS
+# ============================================================================
+
+session-monitor-swap:2026-01-18T22:15:00Z:COMPLETED
+# Purpose: Building menu bar monitor swap utility
+# Status: COMPLETED - App installed and working
+# Files: main.swift, MonitorSwap.app/*
+
+# ============================================================================
+# COMPLETED SESSIONS
+# ============================================================================
+
+# (none yet)
+
+# ============================================================================
+# Last updated: 2026-01-18T22:15:00Z
